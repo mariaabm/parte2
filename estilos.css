@@ -1,0 +1,185 @@
+body
+{
+background-color: #C4E0E7;
+
+}
+
+
+
+
+.tres
+{
+
+    position: absolute;
+	display: block;
+	top: 850px;
+	background-color: #F05B1F;
+	border-radius: 4px 3px 6px / 2px 4px;
+	width: 200px;
+	height: 70px;
+	text-align: center;
+	border-style: dashed;
+	left: 580px;
+}
+
+.tres:hover
+{
+
+    position: absolute;
+	display: block;
+	top: 850px;
+	background-color: #F1DC0A;
+	border-radius: 4px 3px 6px / 2px 4px;
+	width: 200px;
+	height: 70px;
+	text-align: center;
+	border-style: dashed;
+	left: 580px;
+
+}
+
+.cuatro 
+{
+	position: absolute;
+	top: 1px;
+	left: 350px;
+	background: url(estesi.gif);
+	background-size: cover;
+	height: 400px;
+	width: 700px;
+
+}
+
+.grande
+{
+
+position: absolute;
+display: block;
+top: 1px;
+height: 1000px;
+width: 1000px;
+
+}
+.tres3
+{
+	display: none;
+}
+
+.cuatro4
+{
+
+
+	display: none;
+}
+
+.cinco
+{
+	display: none;
+}
+.cinco5
+{
+position: absolute;
+background: url(bonito.jpg);
+height: 640px;
+width: 911px;
+background-size: cover;
+left: 200px;
+}
+
+.siete
+{
+position: absolute;
+width: 716px;
+height: 524px;
+background: url(rx.png);
+top: 300px;
+left: 300px;
+
+
+}
+.siete7
+{
+display: none;
+
+}
+.ocho
+{
+
+	display: none;
+}
+.nueve
+{
+   position: absolute;
+	display: block;
+	top: 750px;
+	background-color: #02E79E;
+	border-radius: 4px 3px 6px / 2px 4px;
+	width: 200px;
+	height: 70px;
+	text-align: center;
+	border-style: dashed;
+	left: 580px;
+
+
+}
+.nueve:hover
+{
+
+    position: absolute;
+	display: block;
+	top: 750px;
+	background-color: #02835A;
+	border-radius: 4px 3px 6px / 2px 4px;
+	width: 200px;
+	height: 70px;
+	text-align: center;
+	border-style: dashed;
+	left: 580px;
+
+}
+
+.nueve9
+{
+	display: none;
+}
+
+
+.diez
+{
+
+display: none;
+
+}
+
+.diez10
+{
+position: absolute;
+width: 800px;
+height: 600px;
+background: url(si.gif);
+left: 300px;
+background-size: cover;
+
+
+
+}
+
+.once
+{
+	display: none;
+}
+
+.once11
+{
+position: absolute;
+width: 400px;
+height: 200px;
+background: url(dd.png);
+top: 420px;
+left: 700px;
+background-size: cover;
+background-size: 100% 100%;
+  background-repeat:no-repeat;
+
+
+}
